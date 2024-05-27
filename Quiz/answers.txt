@@ -1,0 +1,26 @@
+Central Processing Unit
+Random Access Memory
+HyperText Transfer Protocol
+Uniform Resource Locator
+Basic Input/Output System
+Universal Serial Bus
+HyperText Markup Language
+Portable Document Format
+Graphics Processing Unit
+Solid State Drive
+File Transfer Protocol
+Virtual Private Network
+Domain Name System
+Local Area Network
+Wide Area Network
+Internet Protocol
+Internet of Things
+Application Programming Interface
+Operating System
+Structured Query Language
+eXtensible Markup Language
+Cascading Style Sheets
+Wireless Fidelity
+Media Access Control
+Software as a Service
+Artificial Intelligence
